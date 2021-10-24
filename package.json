@@ -1,0 +1,23 @@
+{
+  "name": "meiuca-tokens-alexmachado",
+  "version": "1.0.0",
+  "description": "tokens recebidos da meiuca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmfs/meiuca-teste-tokens.git"
+  },
+  "keywords": [
+    "tokens",
+    "meiuca"
+  ],
+  "author": "Alex Machado Farias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmfs/meiuca-teste-tokens/issues"
+  },
+  "homepage": "https://github.com/alexmfs/meiuca-teste-tokens#readme"
+}
